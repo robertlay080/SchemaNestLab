@@ -1,0 +1,23 @@
+
+---
+
+### **3. 30_LogPatternStack**  
+**Description:**  
+A log analyzer that stacks repeated messages and detects structured log patterns.
+
+#### **README.md**
+```markdown
+# LogPatternStack - Structured Log Frequency Analyzer
+
+LogPatternStack groups and summarizes frequent log events with pattern-based clustering and burst detection.
+
+## Features
+- Stack-like frequency output  
+- Timestamp burst grouping  
+- CLI keyword filters  
+
+## Usage
+```bash
+git clone https://github.com/your-username/30_LogPatternStack.git
+cd 30_LogPatternStack
+python analyze.py logs/app.log
