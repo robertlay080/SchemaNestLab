@@ -1,0 +1,23 @@
+
+---
+
+### **4. 30_LiveMetricGrid**  
+**Description:**  
+Displays streaming numeric data in a grid-like live-updating chart with multi-series support.
+
+#### **README.md**
+```markdown
+# LiveMetricGrid - Realtime Data Stream Visualizer
+
+LiveMetricGrid lets you track and visualize multiple numeric data feeds in real-time with smooth chart updates.
+
+## Features
+- Multi-series live chart  
+- Scrollable with time axis  
+- Adjustable update speed  
+
+## Usage
+```bash
+git clone https://github.com/your-username/30_LiveMetricGrid.git
+cd 30_LiveMetricGrid
+python visualize.py
